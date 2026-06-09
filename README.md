@@ -17,7 +17,8 @@
 所有电影的评分集中在 8.5 ~ 9.7 之间，其中 9.0 ~ 9.4 分段电影数量最多。
 
 [评分直方图]
-<img width="720" height="432" alt="rating_hist" src="https://github.com/user-attachments/assets/8598d27b-de2d-4ac1-aca1-71de4ea85ec5" />
+<img width="720" height="432" alt="rating_hist" src="https://github.com/user-attachments/assets/dc0e0972-ed2b-4d24-8e1f-94e483d24728" />
+
 
 
 > 注：直方图横轴为评分，纵轴为电影数量，分箱数 = 10。
@@ -59,7 +60,8 @@
 下图展示了类型频次的水平条形图（Top15）：
 
 [类型频次条形图]
-<img width="1440" height="360" alt="genre_num_plot" src="https://github.com/user-attachments/assets/c87dec8f-b6f0-4d31-8f4c-8b8f4ddd59e6" />
+<img width="1440" height="360" alt="genre_num_plot" src="https://github.com/user-attachments/assets/d8c6b55e-082f-4704-8325-94afc1b4d03f" />
+
 
 
 ## 关键结论
